@@ -1,2 +1,4 @@
 # UIUCTF-2021
-https://uiuc.tf/
+At the website: https://uiuc.tf/
+
+We had two new competitors on our team for this ctf!
