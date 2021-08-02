@@ -9,4 +9,4 @@ The description says that the flag can be found on the register/login page of th
 we can see that the flag is located at the bottom of the page.
 
 # Flag:
-uiuctf{secret_pictures}
+```uiuctf{secret_pictures}```
