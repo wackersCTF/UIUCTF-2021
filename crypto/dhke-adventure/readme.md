@@ -21,7 +21,7 @@ while b"uiuctf" not in ctext:
             ctext = newctext
         except:
             pass
-    print(ctext)
+print(ctext)
 ```
 # Flag:
 ```uiuctf{give_me_chocolate_every_day_7b8b06}```
