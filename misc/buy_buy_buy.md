@@ -5,7 +5,7 @@ Solved By: RJCyber
 I got a lot of items to sell so buy buy buy.
 
 # How to "Capture the Flag":
-In the competition discord server, there is a bot named "The Auction House," which auctions stuff (including three types of flags). The three types of flags have different values depending on their rarity. The Ultra Rare Flag is the flag that costs the most, then the Rare Flag, and then the Common Flag. All three of these flags are to be bought or won from bidding in the #charl1e-chapl1n channel of the discord server. After obtaining the three flags, you can redeem them by using ```/redeem_flags```. This will DM you the flag (if you have all three flags).
+In the competition discord server, there is a bot named "The Auction House," which auctions stuff (including three types of flags). The three types of flags have different values depending on their rarity. The Ultra Rare Flag is the flag that costs the most, then the Rare Flag, and then the Common Flag. All three of these flags are to be bought or won from bidding in the ```#charl1e-chapl1n channel``` of the discord server. After obtaining the three flags, you can redeem them by using ```/redeem_flags```. This will DM you the flag (if you have all three flags).
 
 Here is the list of commands (the most important ones):
 
