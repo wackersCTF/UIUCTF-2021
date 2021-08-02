@@ -8,4 +8,4 @@ There is a flag on a few of the organizer's profiles. Find it!
 The flag can be found on a few of the organizer's discord profiles. For example, Thomas (sonicninja#2238) has the flag on the "About Me" section of his profile.
 
 ## Flag
-flag: ```uiuctf{@b0uT_m3_suppOrT5_maRkD0wN}```
+```uiuctf{@b0uT_m3_suppOrT5_maRkD0wN}```
