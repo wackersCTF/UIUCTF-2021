@@ -12,6 +12,7 @@ Looking at the name of the challenge gives us a bit of a hint. DHKE stands for D
 This script can be used to decrypt the flag:
 
 ```
+ctext=str(open("ciphertext.txt"))
 while b"uiuctf" not in ctext:
     print(ctext[:100])
     for i in range(len(ALPHABET)):
