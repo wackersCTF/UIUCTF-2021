@@ -8,4 +8,4 @@ https://discord.gg/uiuctf
 The flag can be found in #announcements after joining the discord server provided in the description.
 
 # Flag:
-uiuctf{y0u_j01n3d_tH3_dIsCorD!!!}
+```uiuctf{y0u_j01n3d_tH3_dIsCorD!!!}```
