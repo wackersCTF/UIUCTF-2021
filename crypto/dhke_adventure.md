@@ -19,7 +19,7 @@ This script can be used to decrypt the flag:
           ctext = newctext
         except:
           pass
-  print(ctext)
+  print(ctext)```
 
 # Flag:
 ```uiuctf{give_me_chocolate_every_day_7b8b06}```
