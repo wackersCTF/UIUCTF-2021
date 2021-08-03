@@ -7,4 +7,4 @@ nc baby-python-fixed.chal.uiuc.tf 1337
 ## Solution
 I did not manage to solve this challenge during this ctf and I wasn't able to find a writeup :(.
 
-This was still an interesting challenge to tackle though!
+This was still an interesting challenge to tackle though (and it got me to cram regex for two days)!
